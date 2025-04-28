@@ -1,0 +1,41 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main   # or 'master', depending on your default branch
+  pull_request:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.126.1' # use your required Hugo version
+          extended: true          # enable if using Hugo Extended (for SCSS/SASS)
+
+      - name: Install Node.js (optional)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'       # only needed if your theme uses npm packages
+
+      - name: Install Dependencies (optional)
+        run: |
+          if [ -f package.json ]; then
+            npm install
+          fi
+
+      - name: Build Hugo site
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
