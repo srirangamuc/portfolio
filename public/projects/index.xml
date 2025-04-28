@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Srirangam Umesh Chandra</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>http://localhost:1313/portfolio/projects/</link>
     <description>Recent content in Projects on Srirangam Umesh Chandra</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agromart</title>
-      <link>http://localhost:1313/projects/agromart/</link>
+      <link>http://localhost:1313/portfolio/projects/agromart/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/agromart/</guid>
+      <guid>http://localhost:1313/portfolio/projects/agromart/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: MERN Stack (MongoDB, Express, React, Node.js)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Engineered a multivendor e-commerce platform with Stripe payment integration.&lt;/li&gt;&#xA;&lt;li&gt;Implemented role-based authentication for vendors and customers.&lt;/li&gt;&#xA;&lt;li&gt;Built real-time sales analytics dashboards using Chart.js for profit visualization.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Book Recommendation System</title>
-      <link>http://localhost:1313/projects/bookrecsys/</link>
+      <link>http://localhost:1313/portfolio/projects/bookrecsys/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/bookrecsys/</guid>
+      <guid>http://localhost:1313/portfolio/projects/bookrecsys/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, Streamlit, Machine Learning&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built a book recommendation system using Goodreads data and a custom KMeans clustering algorithm.&lt;/li&gt;&#xA;&lt;li&gt;Engineered the entire ML pipeline from data preprocessing to model evaluation.&lt;/li&gt;&#xA;&lt;li&gt;Achieved a 92% accuracy rate for recommendations.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/__index/</link>
+      <link>http://localhost:1313/portfolio/projects/__index/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/__index/</guid>
+      <guid>http://localhost:1313/portfolio/projects/__index/</guid>
       <description>&lt;p&gt;Welcome to my project portfolio!&lt;br&gt;&#xA;Here you&amp;rsquo;ll find a curated list of projects I have worked on, covering areas such as AI, machine learning, web development, and productivity tools.&lt;/p&gt;&#xA;&lt;p&gt;Each project includes a brief description, key technologies used, and a link to the code repository.&lt;br&gt;&#xA;Feel free to explore!&lt;/p&gt;</description>
     </item>
     <item>
       <title>StudySphere</title>
-      <link>http://localhost:1313/projects/studysphere/</link>
+      <link>http://localhost:1313/portfolio/projects/studysphere/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/studysphere/</guid>
+      <guid>http://localhost:1313/portfolio/projects/studysphere/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Express, WebRTC&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a WebRTC-based video conferencing app supporting collaborative learning.&lt;/li&gt;&#xA;&lt;li&gt;Integrated two-factor authentication for enhanced security.&lt;/li&gt;&#xA;&lt;li&gt;Built responsive interfaces ensuring cross-platform compatibility.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>TaskflowAI</title>
-      <link>http://localhost:1313/projects/taskflowai/</link>
+      <link>http://localhost:1313/portfolio/projects/taskflowai/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/taskflowai/</guid>
+      <guid>http://localhost:1313/portfolio/projects/taskflowai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, FastAPI, AI Agents&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed an AI-powered productivity dashboard for task management and smart scheduling.&lt;/li&gt;&#xA;&lt;li&gt;Built a FastAPI backend supporting real-time updates, role-based access, and calendar integration.&lt;/li&gt;&#xA;&lt;li&gt;Stored data on a serverless PostgreSQL Database.&lt;/li&gt;&#xA;&lt;li&gt;Visualized productivity trends with dynamic charts for performance insights.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

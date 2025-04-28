@@ -10,15 +10,15 @@ tag = 'tags'
 
 [[params.menu]]
 name = "Home"
-url = "/portfolio/"
+url = "/"
 
 [[params.menu]]
 name = "Projects"
-url = "/portfolio/projects/"
+url = "/projects/"
 
 [[params.menu]]
 name = "Blog"
-url = "/portfolio/posts/"
+url = "/posts/"
 
 # Social links
 [[params.social]]
