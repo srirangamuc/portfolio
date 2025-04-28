@@ -5,9 +5,6 @@ theme = "typo"
 [taxonomies]
 tag = 'tags'
 
-[params]
-theme = "light"  # or "dark"
-
 # Collection settings
 homeCollectionTitle = ''
 homeCollection = 'home'
