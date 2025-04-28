@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Srirangam Umesh Chandra</title>
-    <link>http://localhost:1313/portfolio/tags/</link>
+    <link>https://srirangamuc.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on Srirangam Umesh Chandra</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srirangamuc.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/portfolio/tags/ai/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/ai/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/ai/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Analytics</title>
-      <link>http://localhost:1313/portfolio/tags/analytics/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/analytics/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/analytics/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Collaboration</title>
-      <link>http://localhost:1313/portfolio/tags/collaboration/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/collaboration/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/collaboration/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/collaboration/</guid>
       <description></description>
     </item>
     <item>
       <title>Dashboard</title>
-      <link>http://localhost:1313/portfolio/tags/dashboard/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/dashboard/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/dashboard/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/dashboard/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Commerce</title>
-      <link>http://localhost:1313/portfolio/tags/e-commerce/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/e-commerce/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/e-commerce/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/e-commerce/</guid>
       <description></description>
     </item>
     <item>
       <title>Express</title>
-      <link>http://localhost:1313/portfolio/tags/express/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/express/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/express/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/express/</guid>
       <description></description>
     </item>
     <item>
       <title>FastAPI</title>
-      <link>http://localhost:1313/portfolio/tags/fastapi/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/fastapi/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/fastapi/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/fastapi/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/portfolio/tags/machine-learning/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/machine-learning/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/machine-learning/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>MERN</title>
-      <link>http://localhost:1313/portfolio/tags/mern/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/mern/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/mern/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/mern/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/portfolio/tags/productivity/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/productivity/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/productivity/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/portfolio/tags/python/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/python/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/python/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Recommendation System</title>
-      <link>http://localhost:1313/portfolio/tags/recommendation-system/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/recommendation-system/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/recommendation-system/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/recommendation-system/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlit</title>
-      <link>http://localhost:1313/portfolio/tags/streamlit/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/streamlit/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/streamlit/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/streamlit/</guid>
       <description></description>
     </item>
     <item>
       <title>Stripe</title>
-      <link>http://localhost:1313/portfolio/tags/stripe/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/stripe/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/stripe/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/stripe/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Conferencing</title>
-      <link>http://localhost:1313/portfolio/tags/video-conferencing/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/video-conferencing/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/video-conferencing/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/video-conferencing/</guid>
       <description></description>
     </item>
     <item>
       <title>WebRTC</title>
-      <link>http://localhost:1313/portfolio/tags/webrtc/</link>
+      <link>https://srirangamuc.github.io/portfolio/tags/webrtc/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/webrtc/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/tags/webrtc/</guid>
       <description></description>
     </item>
   </channel>

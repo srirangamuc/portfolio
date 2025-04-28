@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on Srirangam Umesh Chandra</title>
-    <link>http://localhost:1313/portfolio/tags/productivity/</link>
+    <link>https://srirangamuc.github.io/portfolio/tags/productivity/</link>
     <description>Recent content in Productivity on Srirangam Umesh Chandra</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srirangamuc.github.io/portfolio/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TaskflowAI</title>
-      <link>http://localhost:1313/portfolio/projects/taskflowai/</link>
+      <link>https://srirangamuc.github.io/portfolio/projects/taskflowai/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/projects/taskflowai/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/projects/taskflowai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, FastAPI, AI Agents&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed an AI-powered productivity dashboard for task management and smart scheduling.&lt;/li&gt;&#xA;&lt;li&gt;Built a FastAPI backend supporting real-time updates, role-based access, and calendar integration.&lt;/li&gt;&#xA;&lt;li&gt;Stored data on a serverless PostgreSQL Database.&lt;/li&gt;&#xA;&lt;li&gt;Visualized productivity trends with dynamic charts for performance insights.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

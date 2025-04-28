@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Streamlit on Srirangam Umesh Chandra</title>
-    <link>http://localhost:1313/portfolio/tags/streamlit/</link>
+    <link>https://srirangamuc.github.io/portfolio/tags/streamlit/</link>
     <description>Recent content in Streamlit on Srirangam Umesh Chandra</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://srirangamuc.github.io/portfolio/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Recommendation System</title>
-      <link>http://localhost:1313/portfolio/projects/bookrecsys/</link>
+      <link>https://srirangamuc.github.io/portfolio/projects/bookrecsys/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/projects/bookrecsys/</guid>
+      <guid>https://srirangamuc.github.io/portfolio/projects/bookrecsys/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, Streamlit, Machine Learning&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built a book recommendation system using Goodreads data and a custom KMeans clustering algorithm.&lt;/li&gt;&#xA;&lt;li&gt;Engineered the entire ML pipeline from data preprocessing to model evaluation.&lt;/li&gt;&#xA;&lt;li&gt;Achieved a 92% accuracy rate for recommendations.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
