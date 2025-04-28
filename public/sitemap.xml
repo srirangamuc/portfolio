@@ -2,76 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/agromart/</loc>
+    <loc>http://localhost:1313/portfolio/projects/agromart/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>http://localhost:1313/portfolio/projects/bookrecsys/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/analytics/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/bookrecsys/</loc>
+    <loc>http://localhost:1313/portfolio/projects/__index/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/collaboration/</loc>
+    <loc>http://localhost:1313/portfolio/projects/studysphere/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dashboard/</loc>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/e-commerce/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ai/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/express/</loc>
+    <loc>http://localhost:1313/portfolio/tags/analytics/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fastapi/</loc>
+    <loc>http://localhost:1313/portfolio/tags/collaboration/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/portfolio/tags/dashboard/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/e-commerce/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mern/</loc>
+    <loc>http://localhost:1313/portfolio/tags/express/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/productivity/</loc>
+    <loc>http://localhost:1313/portfolio/tags/fastapi/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/__index/</loc>
+    <loc>http://localhost:1313/portfolio/tags/machine-learning/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mern/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/portfolio/tags/productivity/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/recommendation-system/</loc>
+    <loc>http://localhost:1313/portfolio/tags/python/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/streamlit/</loc>
+    <loc>http://localhost:1313/portfolio/tags/recommendation-system/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stripe/</loc>
+    <loc>http://localhost:1313/portfolio/tags/streamlit/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/studysphere/</loc>
+    <loc>http://localhost:1313/portfolio/tags/stripe/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/portfolio/tags/video-conferencing/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/taskflowai/</loc>
+    <loc>http://localhost:1313/portfolio/tags/webrtc/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/video-conferencing/</loc>
+    <loc>http://localhost:1313/portfolio/projects/taskflowai/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/webrtc/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/portfolio/2-jan-2006/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/50/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/true/</loc>
   </url>
 </urlset>
