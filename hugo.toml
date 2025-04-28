@@ -1,35 +1,13 @@
 baseURL = 'https://srirangamuc.github.io/portfolio/'
 title = 'Srirangam Umesh Chandra'
-theme = "typo"
+theme = 'typo'
+relativeURLs = true  # ensures all links are relative
+canonifyURLs = true  # ensures all links are absolute and prefixed with baseURL
 
-relativeURLs = false
-canonifyURLs = true
-
+# Taxonomy & Menu settings
 [taxonomies]
 tag = 'tags'
 
-# Collection settings
-homeCollectionTitle = ''
-homeCollection = 'home'
-
-paginationSize = 50
-listSummaries = true
-listDateFormat = '2 Jan 2006'
-
-# Social media icons
-[[params.social]]
-name = "github"
-url = "https://github.com/srirangamuc"
-
-[[params.social]]
-name = "linkedin"
-url = "https://linkedin.com/in/srirangam-umesh-chandra"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@uc3932"
-
-# Menu at the top
 [[params.menu]]
 name = "Home"
 url = "/portfolio/"
@@ -41,3 +19,16 @@ url = "/portfolio/projects/"
 [[params.menu]]
 name = "Blog"
 url = "/portfolio/posts/"
+
+# Social links
+[[params.social]]
+name = "github"
+url = "https://github.com/srirangamuc"
+
+[[params.social]]
+name = "linkedin"
+url = "https://linkedin.com/in/srirangam-umesh-chandra"
+
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@uc3932"
