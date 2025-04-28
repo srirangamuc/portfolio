@@ -38,8 +38,13 @@ jobs:
           submodules: false  # Don't automatically checkout submodules, we'll do it manually
       - name: Initialize git and add Typo theme as a submodule
         run: |
-          git submodule add https://github.com/tomfran/typo.git themes/typo  # Add the Typo theme as a submodule
-          git submodule update --init --recursive  # Initialize the submodule
+          # Check if the theme submodule already exists
+          if [ ! -d "themes/typo" ]; then
+            git submodule add https://github.com/tomfran/typo.git themes/typo  # Add the Typo theme as a submodule
+            git submodule update --init --recursive  # Initialize the submodule
+          else
+            echo "Submodule already added"
+          fi
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
