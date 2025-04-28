@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Srirangam Umesh Chandra</title>
-    <link>http://localhost:1313/portfolio/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Srirangam Umesh Chandra</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tags/AI</title>
-      <link>http://localhost:1313/portfolio/tags/ai/</link>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Analytics</title>
-      <link>http://localhost:1313/portfolio/tags/analytics/</link>
+      <title>Analytics</title>
+      <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/analytics/</guid>
+      <guid>http://localhost:1313/tags/analytics/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Collaboration</title>
-      <link>http://localhost:1313/portfolio/tags/collaboration/</link>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/tags/collaboration/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/collaboration/</guid>
+      <guid>http://localhost:1313/tags/collaboration/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Dashboard</title>
-      <link>http://localhost:1313/portfolio/tags/dashboard/</link>
+      <title>Dashboard</title>
+      <link>http://localhost:1313/tags/dashboard/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/dashboard/</guid>
+      <guid>http://localhost:1313/tags/dashboard/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/E-Commerce</title>
-      <link>http://localhost:1313/portfolio/tags/e-commerce/</link>
+      <title>E-Commerce</title>
+      <link>http://localhost:1313/tags/e-commerce/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/e-commerce/</guid>
+      <guid>http://localhost:1313/tags/e-commerce/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Express</title>
-      <link>http://localhost:1313/portfolio/tags/express/</link>
+      <title>Express</title>
+      <link>http://localhost:1313/tags/express/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/express/</guid>
+      <guid>http://localhost:1313/tags/express/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/FastAPI</title>
-      <link>http://localhost:1313/portfolio/tags/fastapi/</link>
+      <title>FastAPI</title>
+      <link>http://localhost:1313/tags/fastapi/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/fastapi/</guid>
+      <guid>http://localhost:1313/tags/fastapi/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Machine Learning</title>
-      <link>http://localhost:1313/portfolio/tags/machine-learning/</link>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/MERN</title>
-      <link>http://localhost:1313/portfolio/tags/mern/</link>
+      <title>MERN</title>
+      <link>http://localhost:1313/tags/mern/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/mern/</guid>
+      <guid>http://localhost:1313/tags/mern/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Productivity</title>
-      <link>http://localhost:1313/portfolio/tags/productivity/</link>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/productivity/</guid>
+      <guid>http://localhost:1313/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Python</title>
-      <link>http://localhost:1313/portfolio/tags/python/</link>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Recommendation System</title>
-      <link>http://localhost:1313/portfolio/tags/recommendation-system/</link>
+      <title>Recommendation System</title>
+      <link>http://localhost:1313/tags/recommendation-system/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/recommendation-system/</guid>
+      <guid>http://localhost:1313/tags/recommendation-system/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Streamlit</title>
-      <link>http://localhost:1313/portfolio/tags/streamlit/</link>
+      <title>Streamlit</title>
+      <link>http://localhost:1313/tags/streamlit/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/streamlit/</guid>
+      <guid>http://localhost:1313/tags/streamlit/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Stripe</title>
-      <link>http://localhost:1313/portfolio/tags/stripe/</link>
+      <title>Stripe</title>
+      <link>http://localhost:1313/tags/stripe/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/stripe/</guid>
+      <guid>http://localhost:1313/tags/stripe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Video Conferencing</title>
-      <link>http://localhost:1313/portfolio/tags/video-conferencing/</link>
+      <title>Video Conferencing</title>
+      <link>http://localhost:1313/tags/video-conferencing/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/video-conferencing/</guid>
+      <guid>http://localhost:1313/tags/video-conferencing/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/WebRTC</title>
-      <link>http://localhost:1313/portfolio/tags/webrtc/</link>
+      <title>WebRTC</title>
+      <link>http://localhost:1313/tags/webrtc/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/webrtc/</guid>
+      <guid>http://localhost:1313/tags/webrtc/</guid>
       <description></description>
     </item>
   </channel>
