@@ -32,3 +32,7 @@ url = "https://linkedin.com/in/srirangam-umesh-chandra"
 [[params.social]]
 name = "medium"
 url = "https://medium.com/@uc3932"
+
+[[params.social]]
+name = "huggingface"
+url = "https://huggingface.co/srirangamuc"
