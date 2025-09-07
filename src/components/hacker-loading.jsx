@@ -134,8 +134,15 @@ export default function HackerLoading({ onComplete }) {
       {/* Main loading content */}
       <div className="relative z-10 w-full max-w-2xl">
         {/* ASCII Art Header */}
-        <div className="flex justify-center mb-8 text-[#00E676]">
-          <pre className="text-xs sm:text-sm leading-tight text-center">
+        <div className="flex justify-center mb-8 text-[#00E676] hidden xs:flex">
+          <pre
+            className="text-[10px] sm:text-xs md:text-sm leading-tight text-center break-words whitespace-pre-wrap px-2"
+            style={{
+              maxWidth: '100vw',
+              wordBreak: 'break-word',
+              overflowX: 'auto',
+            }}
+          >
             {generateSimpleAscii("Srirangam Umesh Chandra")}
           </pre>
         </div>
