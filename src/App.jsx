@@ -1,44 +1,57 @@
-import { useState } from "react"
-import Terminal from "./components/terminal"
-import HackerLoading from "./components/hacker-loading"
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Experience from "./components/Experience";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Blogs from "./components/Blogs";
+import Education from "./components/Education";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import GradientRings from "./components/GradientRings";
+import BlogPost from "./components/BlogPost";
 
-export default function Page() {
-  const [isLoading, setIsLoading] = useState(true)
-  const [isTvSwitchOn, setIsTvSwitchOn] = useState(false)
-
-  const handleLoadingComplete = () => {
-    setIsLoading(false)
-    setTimeout(() => {
-      setIsTvSwitchOn(true)
-    }, 100)
-  }
-
+function HomePage() {
   return (
-    <main className="min-h-screen w-screen relative bg-[#0B0E14]">
-      <div
-        className={`absolute inset-0 transition-opacity duration-300 ease-out ${
-          isLoading ? "opacity-100" : "opacity-0"
-        }`}
-        style={{ display: isLoading ? "block" : "none" }}
-      >
-        <HackerLoading onComplete={handleLoadingComplete} />
-      </div>
+    <>
+      <Navbar />
+      <Hero />
+      <About />
+      <Experience />
+      <Projects />
+      <Skills />
+      <Blogs />
+      <Education />
+      <Contact />
+      <Footer />
+    </>
+  );
+}
 
-      <div className={`absolute inset-0 overflow-hidden ${!isLoading ? "block" : "none"}`}>
-        <div
-          className={`h-full w-full transition-all duration-700 ease-out ${
-            isTvSwitchOn ? "scale-y-100 opacity-100" : "scale-y-0 opacity-0"
-          }`}
-          style={{
-            transformOrigin: "center center",
-            clipPath: isTvSwitchOn ? "inset(0% 0% 0% 0%)" : "inset(50% 0% 50% 0%)",
-          }}
-        >
-          <div className="h-full w-full overflow-auto">
-            <Terminal />
-          </div>
-        </div>
-      </div>
-    </main>
-  )
+export default function App() {
+  return (
+    <BrowserRouter>
+      {/* SVG noise filter for grain texture */}
+      <svg className="grain-overlay" aria-hidden="true">
+        <filter id="grain">
+          <feTurbulence
+            type="fractalNoise"
+            baseFrequency="0.8"
+            numOctaves="4"
+            stitchTiles="stitch"
+          />
+          <feColorMatrix type="saturate" values="0" />
+        </filter>
+        <rect width="100%" height="100%" filter="url(#grain)" />
+      </svg>
+
+      <GradientRings />
+
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/blog/:slug" element={<BlogPost />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
